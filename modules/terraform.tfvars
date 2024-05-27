@@ -1,5 +1,5 @@
 ami="ami-0cc9838aa7ab1dce7"
-ec2type = "t2.micro"
+ec2type = "t3.micro"
 vpcname = "variablevpc"
 cidr_block_vpc = "192.0.0.0/16"
 publicsubnetname = "public"
